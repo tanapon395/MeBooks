@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329342399248",
+    "firebase_url": "https://mebooks-ba44a.firebaseio.com",
+    "project_id": "mebooks-ba44a",
+    "storage_bucket": "mebooks-ba44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329342399248:android:958e7f17aff55fdd",
+        "android_client_info": {
+          "package_name": "com.example.tanapon.mebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329342399248-i95968l4pnvfap0i6kng2vlp7nktaln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTXVXwzPSQ8_02vBvJhQWwLFPfe639HY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
