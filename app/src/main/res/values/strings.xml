@@ -3,4 +3,109 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">List</string>
     <string name="title_notifications">Contact</string>
+    <string-array name="shopping_item">
+        <item>ก๊อต Mechanical E. 700</item>
+        <item>ก๊อต Vector Mec. 400</item>
+        <item>ก๊อต Dynamic 500</item>
+        <item>ก๊อต ก่อสร้าง 200</item>
+        <item>ก๊อต Electronic 650</item>
+        <item>ก๊อต Read This 2 160</item>
+        <item>ก๊อต Read This 2 160</item>
+        <item>ก๊อต Four Conner 160</item>
+        <item>ชายลี Cal 2 50</item>
+        <item>ชายลี Cal 1 WB 30</item>
+        <item>ชายลี โครงสร้างข้อมูล 100</item>
+        <item>ชายลี คอมพิวเตอร์ 100</item>
+        <item>ชายลี Four Conner 90</item>
+        <item>ชายลี Four Conner 90</item>
+        <item>ชายลี Four Conner 90</item>
+        <item>ชายลี ความน่าจะเป็น 90</item>
+        <item>ปอนด์ English III 150</item>
+        <item>ปอนด์ English III 150</item>
+        <item>บ๊อบ Financial A. 800</item>
+        <item>เฟิร์ส Cal 3 WB 50</item>
+        <item>เฟิร์ส Cal 3 สมการ 50</item>
+        <item>นุ่น  Math Daily 60</item>
+        <item>นุ่น  Four Conner 50</item>
+        <item>กร Cal 1 60</item>
+        <item>กร Cal 1 WB 30</item>
+        <item>เบล English IV 150</item>
+        <item>เบล English III 200</item>
+        <item>เข้มข้น Cal 2 50</item>
+        <item>เข้มข้น  Read This2 100</item>
+        <item>เข้มข้น Read This3 100</item>
+        <item>แบม Cal 2 100</item>
+        <item>แบม Physic 2 100</item>
+        <item>แบม Four Conner 100</item>
+        <item>แบม Cal 1 WB 40</item>
+        <item>พี่แนน English V 200</item>
+        <item>เจมส์ FLUID 750</item>
+        <item>สุกัญญา คงผอม ทฤษฎีวงจรไฟฟ้าเบื้องต้น 150</item>
+        <item>สุกัญญา คงผอม ทฤษฎีวงจรไฟฟ้าเบื้องต้น 150</item>
+        <item>สุกัญญา คงผอม ฟิสิกส์ 2 80</item>
+        <item>พี่แม็ก คณิตศาสตร์ในชีวิตประจำวัน 20</item>
+        <item>พี่แม็ก คณิตศาสตร์วิศวกรรมไฟฟ้า 1 50</item>
+        <item>พี่แม็ก คณิตศาสตร์วิศวกรรมไฟฟ้า 2 60</item>
+        <item>พี่แม็ก แบบฝึกหัดและเทคนิคการแก้ปัญหาแคล 99</item>
+        <item>พี่แม็ก วงจรไฟฟ้า 99</item>
+        <item>พี่แม็ก วงจรไฟฟ้าเบื้องต้น 129</item>
+        <item>พี่แม็ก วิศวกรรมสายอากาศ 190</item>
+        <item>พี่แม็ก อนุพันธ์และการประยุกต์ 120</item>
+        <item>พี่แม็ก Cal 1 39</item>
+        <item>พี่แม็ก Cal 1 (Workbook) 29</item>
+        <item>พี่แม็ก Eng Electromagnetics 700</item>
+        <item>พี่แม็ก Eng Graphics 1 (58) 29</item>
+        <item>พี่แม็ก Optical Fibar Communication 600</item>
+        <item>พี่แม็ก Physics for Scientists and Engineer 699</item>
+        <item>พี่แม็ก Principles of Physics 699</item>
+        <item>พี่แม็ก Read this 3 99</item>
+        <item>พี่แม็ก Supermap Physic 100</item>
+        <item>วิภาดา จันทร์สระน้อย การบัญชีบริหาร 200</item>
+        <item>เจมส์ Fluid Mechanics 750</item>
+        <item>น้ำ	Barron TOEIC 500</item>
+        <item>เมย์ Barron TOEIC 550</item>
+        <item>นวพร อุทิรัมย์ สรุปเคมี 90</item>
+        <item>นวพร อุทิรัมย์ Cal 1 40</item>
+        <item>นวพร อุทิรัมย์ Cal 1 30</item>
+        <item>นวพร อุทิรัมย์ Cal 1 (Workbook) 20</item>
+        <item>นวพร อุทิรัมย์ Eng Graphics 1 20</item>
+        <item>นวพร อุทิรัมย์ Four Corner 3 50</item>
+        <item>นวพร อุทิรัมย์ Read This 2 50</item>
+        <item>ธีรพันธุ์ คำค้อม	ปริมาณสารสัมพันธ์ 50</item>
+        <item>ธีรพันธุ์ คำค้อม	 Cal 1 70</item>
+        <item>ภานุรุจ ศรีน้อย	ฟิสิกส์มหาลัย 1 เล่ม 2 100</item>
+        <item>วรพงษ์ สุขขันทอง แคลคูลัส 2 150</item>
+        <item>วรพงษ์ สุขขันทอง Cal 1 (Workbook) 40</item>
+        <item>วรพงษ์ สุขขันทอง Cal 2 (Workbook) 40</item>
+        <item>บุญญฤทธิ์ บุญประสิทธิ์	Barron TOEIC 490</item>
+        <item>มฆินทร์ แสนน่าน เคมี 1 350</item>
+        <item>เมฆินทร์ แสนน่าน สรุุปเข้มเคมี	 150</item>
+        <item>มฆินทร์ แสนน่าน Cal 1 100</item>
+        <item>มฆินทร์ แสนน่าน Cal 1 (Workbook) 50</item>
+        <item>เมฆินทร์ แสนน่าน Four Corner 3 50</item>
+        <item>ชัชฎาพร ชุนรัมย์ การสื่อสารทางธุรกิจ 150</item>
+        <item>ชัชฎาพร ชุนรัมย์ Cal 1 สำหรับวิศวกร 250</item>
+        <item>ปาริชาติ พรหมห์ตรี	Cal 1 135</item>
+        <item>ปาริชาติ พรหมห์ตรี	Cal 1 (Workbook) 70</item>
+        <item>ขนิษฐา พิริยะพงษ์พันธ์ แคลคูลัส 2 70</item>
+        <item>ขนิษฐา พิริยะพงษ์พันธ์ Cal 1 50</item>
+        <item>ขนิษฐา พิริยะพงษ์พันธ์ Cal 1 (Workbook) 50</item>
+        <item>ขนิษฐา พิริยะพงษ์พันธ์ Cal 1 (Workbook) 50</item>
+        <item>ธัญกร จำคำ	คณิตศาสตร์ในชีวิตประจำวัน</item>
+        <item>ธัญกร จำคำ	แบบฝึกหัดและเทคนิคการแก้ปัญหาแคล</item>
+        <item>ธัญกร จำคำ	Cal 1 (Workbook)</item>
+        <item>ธัญกร จำคำ	Eng Graphic 1 (58)</item>
+        <item>วิฑูรย์ ใหม่คามิ	คณิตศาสตร์ในชีวิตประจำวัน 50</item>
+        <item>วิฑูรย์ ใหม่คามิ	Cal 1 70</item>
+        <item>นิฑูรย์ ใหม่คามิ	Eng Graphic 1 (56) 50</item>
+        <item>พรรณราย ทานประสิทธิ์ Cal 1 70</item>
+        <item>พรรณราย ทานประสิทธิ์ Cal 1 (Workbook) 30</item>
+        <item>วรรณิศา ไตรเลิศ แคลคูลัส 2 80</item>
+        <item>วรรณิศา ไตรเลิศ ฟิสิกส์ 2 150</item>
+        <item>วรรณิศา ไตรเลิศ ฟิสิกส์มหาลัย 1 เล่ม 1 130</item>
+        <item>วรรณิศา ไตรเลิศ ฟิสิกส์มหาลัย 1 เล่ม 2	 110</item>
+        <item>วัฒนชัย สมัยกลาง GDT 140</item>
+        <item>เต๊ะ	 Read This 3 100</item>
+        <item>เต๊ะ Get Ready for International B. 200</item>
+    </string-array>
 </resources>
